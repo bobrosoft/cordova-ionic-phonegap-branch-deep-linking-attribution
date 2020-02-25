@@ -85,7 +85,7 @@ SOFTWARE.
           <config>
               <source url="https://github.com/CocoaPods/Specs.git"/>
           </config>
-          <pods>
+          <pods use-frameworks="true">
               <pod name="Branch" spec="~> 0.31.3" />
           </pods>
       </podspec>
